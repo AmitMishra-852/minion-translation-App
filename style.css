@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color:blue;
+    background-repeat:no-repeat;
+    background-size: auto;
+}
+.body{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.minion-bhai{
+    display: inline-block;
+    margin: 0px;
+    margin-right: 65px;
+    margin-top: 45px;
+
+}
+.translatearea{
+    margin-left: 25px;
+}
+
+.container {
+    background-color:transparent;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 563px;
+    height: 300px;
+   
+}
+
+.c1 {
+    padding: 4px;
+    margin: 3px;
+
+}
+
+#btn-translator {
+    width: 190px;
+    height: 40px;
+    background-color:#F59E0B;
+    border: none;
+    color:#B45309;
+    box-shadow: 0 0 10px #B45309;
+}
+
+#textarea {
+    width: 550px;
+    height: 100px;
+    background-color:#fde894;
+    box-shadow: 5px 5px 10px rgb(0, 0, 66);;
+    color:#78350F;
+    
+}
+
+#divbox {
+    width: 550px;
+    height: 70px;
+    margin-bottom: 0px;
+    background-color: #FDE68A;
+    box-shadow: 5px 5px 10px rgb(0, 0, 66);
+    font-family: sans-serif;
+    color:#78350F ;
+    font-size: 15px;
+
+}
+
+#head {
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    text-align: center;
+    height: 70px;
+
+}
+
+.h1part {
+    color: black;
+    padding: auto;
+    width: 400px;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+.boxtool {
+    color: white;
+    height: 100px;
+    padding: 40px 50px;
+    padding-top: 24px;
+    text-align: center;
+
+}
+
+.section-1 {
+    background-color: transparent;
+}
+#paragraph
+{
+    font-size: 12px;
+}
